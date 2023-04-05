@@ -1,0 +1,10 @@
+﻿body {
+}
+
+.colours {
+    color:white
+}
+    .colours:hover {
+        color:dimgrey;
+    }
+
